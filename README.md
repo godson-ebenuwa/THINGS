@@ -1,2 +1,2 @@
-# THINGS
-Things I've done at my leisure
+# PYTHON PROJECTS
+Projects I've done at my leisure
